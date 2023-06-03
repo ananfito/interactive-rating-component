@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-react-07fgl5nyLd
+- Live Site URL: https://rating-component-9fb0b9.netlify.app/
 
 ## My process
 
