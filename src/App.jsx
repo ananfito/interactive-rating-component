@@ -19,8 +19,6 @@ function App() {
 
   function handleSubmit(event) {
       event.preventDefault()
-      console.log(formData)
-      console.log('subtmit btn clicked')
       setFormData(prevFormData => ({
         ...prevFormData,
         formSubmitted: true

@@ -62,6 +62,7 @@
   width: 10px;
   height: 10px;
   font-size: 1rem;
+  font-family: inherit;
   text-align: center;
   display: flex;
   align-items: center;
@@ -136,7 +137,7 @@
 }
 
 .confirmation--text {
-  color: var(--neutral-med-grey)
+  color: var(--neutral-med-grey);
 }
 
 
@@ -162,5 +163,4 @@
   .form-btn {
     font-size: 1.05rem;
   }
-
 }
