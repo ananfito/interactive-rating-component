@@ -4,7 +4,7 @@ export default function Form(props) {
     return (
         <div className="form-container">
             <div className="star-icon-container">
-                <img id='star-icon' src="src/assets/icon-star.svg" alt="star icon" />
+                <img id='star-icon' src="./assets/icon-star.svg" alt="star icon" />
             </div>
             <h1 className='form-container--title'>How did we do?</h1>
             <p className='form-container--text'>Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!</p>
