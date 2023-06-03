@@ -11,6 +11,7 @@ This is my solution to the [Interactive rating component challenge on Frontend M
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -67,6 +68,10 @@ className={formData.formValue === '1' ?
   'form--label'}
 ```
 If the user has selected an option, then the state is updated with that value. Since the value is stored in state, I made use of it by letting it determine which CSS classes to the label so that the color of the label would change to match the user's selection.
+
+### Useful Resources 
+
+- [Vite documentation on assets](https://vitejs.dev/guide/assets.html) - This documentation helped me resolve the issue of the images not loading properly during deployment. Special thanks to [Bob Ziroll](https://github.com/bobziroll) for sharing this in the Scrimba Discord community when someone else had the same issue.
 
 ## Author
 
