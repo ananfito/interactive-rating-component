@@ -1,9 +1,11 @@
+import thankYouImgUrl from "./assets/illustration-thank-you.svg"
+
 export default function Confirmation (props) {
     const { selectedValue } = props
     return (
         <div className="confirmation-container">
             <div className="img-container">
-                <img src="src/assets/illustration-thank-you.svg" alt="" />
+                <img src={thankYouImgUrl} alt="" />
             </div>
             <p className="confirmation--selection">You selected {selectedValue} out of 5</p>
             <h1 className="confirmation--title">Thank you!</h1>
