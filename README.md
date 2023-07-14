@@ -13,7 +13,6 @@ This is my solution to the [Interactive rating component challenge on Frontend M
   - [What I learned](#what-i-learned)
   - [Useful Resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -75,6 +74,7 @@ If the user has selected an option, then the state is updated with that value. S
 
 ## Author
 
+- <a href="mailto:msg.for.anthony.p6ht3@simplelogin.com?subject=Nice GitHub Project&body=Hey Anthony, I saw your GitHub project. Let's talk!">Email</a>
 - Website - [Web Dev Portfolio](https://ananfito.github.io)
 - Frontend Mentor - [@ananfito](https://www.frontendmentor.io/profile/ananfito)
 - Mastodon - [@infinifito@hachyderm.io](https://hachyderm.io/@infinifito)
